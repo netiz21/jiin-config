@@ -1,0 +1,3 @@
+# dev.yaml
+application:
+  message: "Message From Default Local Git Repository (Properties update...)"
