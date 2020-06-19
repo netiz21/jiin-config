@@ -2,5 +2,5 @@ security:
   jwt:
     key-store: classpath:keystore.jks
     key-store-password: letmein
-    key-pair-alias: mytestkey
+    key-pair-alias: mytestkey2
     key-pair-password: changeme
