@@ -1,3 +1,6 @@
 security:
   jwt:
     public-key: classpath:public.txt
+
+weather:
+  url: https://www.kr-weathernews.com/mv3/if/main2.fcgi
