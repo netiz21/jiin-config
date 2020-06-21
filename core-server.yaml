@@ -4,3 +4,7 @@ security:
 
 weather:
   url: https://www.kr-weathernews.com/mv3/if/main2.fcgi
+
+youtube:
+  key: AIzaSyBcHhL5BKrWtLeL_ZGEQh8twgGdqBdWWFM
+  channel-id: UC534KP5-SVyoLrPV2vDL6cw
