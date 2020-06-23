@@ -8,3 +8,6 @@ weather:
 youtube:
   key: AIzaSyBcHhL5BKrWtLeL_ZGEQh8twgGdqBdWWFM
   channel-id: UC534KP5-SVyoLrPV2vDL6cw
+
+batch:
+  size: 500
