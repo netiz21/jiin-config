@@ -4,3 +4,4 @@ security:
     key-store-password: letmein
     key-pair-alias: mytestkey
     key-pair-password: changeme
+    
