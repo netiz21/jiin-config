@@ -11,3 +11,7 @@ youtube:
 
 batch:
   size: 500
+
+naming:
+  order:
+    count: 5
